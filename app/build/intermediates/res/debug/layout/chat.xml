@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/chat_text"
+        android:layout_width="325dp"
+        android:layout_height="285dp"
+        android:text="@string/chat_text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_gravity="center" />
+
+    <ImageButton
+        android:id="@+id/chat_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="zumChat"
+        android:src="@drawable/whatsapp"
+        android:text="@string/chat_button"
+        android:layout_gravity="center"
+        android:contentDescription="@string/toWhatsApp" />
+
+</FrameLayout>
+<!-- From: file:/home/sascha/Development/AndroidStudioProjects/Oblisop/app/src/main/res/layout/chat.xml -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OBLISOP</string>
+    <string name="action_settings">Über die APP</string>
+    <string name="action_settings2">Inhalte neu laden</string>
+    <string name="action_settings3">Log Out</string>
+    <string name="mainLayout"></string>
+    <string name="drawerLayout"></string>
+    <string name="opendrawer">open</string>
+    <string name="closedrawer">close</string>
+    <string name="title_bar1">News</string>
+    <string name="title_bar2">Termine</string>
+    <string name="title_bar3">Ranking</string>
+    <string name="title_bar4">Chat</string>
+    <string name="logo">OBLISOP Logo</string>
+    <string name="news_ueberschrift">News</string>
+    <string name="bild_artikel1">location</string>
+    <string name="news_ueberschrift2">Termine</string>
+    <string name="bild_turnier1">turnier</string>
+    <string name="news_ueberschrift3">Ranking</string>
+    <string name="chat_ueberschrift">Chat</string>
+    <string name="chat_text">Unser Chat befindet sich bei WhatsApp. Auf den Button klicken um WhatsApp zu öffnen!</string>
+    <string name="chat_button">zum Chat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="zuruekZuApp">zurück zur APP</string>
+
+    <string name="title_activity_register">Registrieren</string>
+
+    <string name="username">Benutzername</string>
+    <string name="login">Login</string>
+    <string name="registrieren">Registrieren</string>
+    <string name="password">Passwort</string>
+    <string name="registered">Noch nicht angemeldet? Jetzt nachholen!\n</string>
+    <string name="saveData">Login Daten speichern</string>
+    <string name="backToLogin">Zurück zum Log in</string>
+    <string name="toWhatsApp">change to WhatsApp</string>
+
+
+</resources>

@@ -1,0 +1,6 @@
+/home/sascha/Development/AndroidStudioProjects/Oblisop/app/build/intermediates/classes/debug
+/home/sascha/Development/AndroidStudioProjects/Oblisop/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-03bf67bdcaeb1fc37b5fb86d751f5dea097d4944.jar
+/home/sascha/Development/AndroidStudioProjects/Oblisop/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-25bd284d880652948eb81a646f5cebc00c72450a.jar
+/home/sascha/Development/AndroidStudioProjects/Oblisop/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-3da206e80cbb1901ba19542f6f128f9a1cb185f4.jar
+/home/sascha/Development/AndroidStudioProjects/Oblisop/app/build/intermediates/pre-dexed/debug/classes-debaf4cb252eb3bb3bb248a4a284c32baf5e5815.jar
+/home/sascha/Development/AndroidStudioProjects/Oblisop/app/build/intermediates/pre-dexed/debug/classes-ca17bbe2a31f65603f41a7311ee4499bd6784cbf.jar
