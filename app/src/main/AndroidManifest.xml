@@ -32,7 +32,7 @@
         </activity>
         <activity
             android:name=".LoginActivity"
-            android:label="OBLISOP"
+            android:label="OBLISOP Login"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MainActivity" />
@@ -42,7 +42,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:label="OBLISOP Login"
+            android:label="OBLISOP"
             android:screenOrientation="portrait" >
         </activity>
 
