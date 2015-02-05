@@ -70,7 +70,7 @@ public class LoginActivity extends Activity {
         });
     }
 
-   protected void login(){
+   private void login(){
         try{
 
             HttpClient httpclient = new DefaultHttpClient();
